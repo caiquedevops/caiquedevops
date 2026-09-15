@@ -13,9 +13,12 @@
   <img src="https://devicons.io/devicons/icons/zabbix.svg" width="60" title="Zabbix">
   <img src="https://devicons.io/devicons/icons/arduino.svg" width="45" title="Arduino">
   <img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="45" title="Certificado-Security">
-  
-  
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jellyfin.png" width="45" title="Jellyfin">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mikrotik.svg" width="45" title="mikrotik">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/truenas-scale.svg" width="45" title="truenas-scale">
 </p>
+
+
 ### 🖥️ Infraestrutura
 
 `Windows Server` `Linux` `TrueNAS` `Manutenção em Hardware`
