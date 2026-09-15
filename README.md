@@ -1,100 +1,62 @@
-## Olá! Eu sou o Caique Lima
+
+# Olá, eu sou Caique Lima 👋
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=caiquedevops&rank_icon=github&custom_title=Meu%20Status%20do%20GITHUB&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=caiquedevops&rank_icon=github&custom_title=Meu%20Status%20do%20GITHUB&show_icons=true&include_all_commits=true&theme=dark)
 
+## 🛠️ Tecnologias e conhecimentos
 
-### Suporte de TI | Em especialização em DevOps
+### 🖥️ Infraestrutura
 
-Profissional de **Suporte de TI**, atualmente direcionando meus estudos e projetos práticos para a área de **DevOps**.
+`Windows Server` `Linux` `TrueNAS` `Manutenção em Hardware`
 
-Tenho interesse em infraestrutura, automação, monitoramento, containers, redes, cloud e CI/CD.
+### 🌐 Redes
 
-Utilizo este GitHub para documentar minha evolução, compartilhar projetos práticos e aplicar os conhecimentos adquiridos nos meus estudos.
+`Redes de Computadores` `MikroTik` `VPN` 
 
----
+### 📊 Monitoramento
 
-## 🚀 Principais áreas de interesse
+`Zabbix` `The Dude`
 
-* 🐧 Linux
-* 🐳 Docker e containers
-* 🌐 Redes e infraestrutura
-* 📊 Monitoramento
-* 🤖 Automação
-* 🔄 CI/CD
-* ☁️ Cloud
-* 🏗️ Infrastructure as Code
-
----
-
-## 🛠️ Tecnologias
-
-**Infraestrutura e Redes**
-
-`Linux` `MikroTik` `TrueNAS`
-
-**Containers e Monitoramento**
-
-`Docker` `Docker Compose` `Zabbix`
-
-**Versionamento**
+### 📂 Versionamento
 
 `Git` `GitHub`
 
-**Em estudo**
+### 🔐 Segurança
 
-`Ansible` `Terraform` `CI/CD` `Cloud` `Kubernetes`
+`Cybersecurity Essentials`
 
----
+### 💻 Programação e Desenvolvimento
 
-## 📂 Projetos em destaque
+`Lógica de Programação` `Java (básico)` `HTML` `CSS`
 
-### 🌐 MikroTik — Automação de Failover
+### ⚙️ Outros projetos e tecnologias
 
-Automação desenvolvida para realizar o failover entre links de Internet, reduzindo a necessidade de intervenção manual em situações de indisponibilidade.
-
-**Conceitos:** Redes · MikroTik · RouterOS · Scripting · Automação · Alta disponibilidade
-
-> O código-fonte da solução não está disponível publicamente por questões de propriedade intelectual. A arquitetura e o funcionamento da solução estão documentados no projeto.
-
----
-
-### 📊 Zabbix — Ambiente de Monitoramento
-
-Laboratório de monitoramento desenvolvido para estudar a implantação e configuração do Zabbix, incluindo seus componentes e integração com infraestrutura baseada em containers.
-
-**Conceitos:** Zabbix · Docker · Linux · Monitoramento · Banco de dados · Containers
-
----
-
-## 📈 Minha jornada em DevOps
-
-Estou construindo meu conhecimento através de uma abordagem prática:
-
-**Estudar → Implementar → Documentar → Testar → Resolver problemas → Melhorar**
-
-Este perfil acompanha minha evolução desde os fundamentos de infraestrutura e redes até automação, containers, CI/CD, Infrastructure as Code e Cloud.
+`Jellyfin` `Arduino`
 
 ---
 
 ## 📚 Atualmente estudando
 
+### DevOps
+
 * Docker
-* Linux
-* Monitoramento
-* Redes
-* Git/GitHub
+* Docker Compose
+* Kubernetes
 * Automação
-* DevOps
-* Cloud
 * CI/CD
 * Infrastructure as Code
-
+* Cloud
+* Ansible
+* Terraform
 ---
+
+## 🏆 Certificações
+
+### Cybersecurity Essentials — Cisco
+
+[Ver credencial na Credly](https://www.credly.com/badges/c9e00b5e-5a56-4076-acda-bafbf44fa621/public_url)
+
 
 ## 📫 Contato
 
 📧 **[caiquelima.dev@gmail.com](mailto:caiquelima.dev@gmail.com)**
-
----
-
-> "Aprender na prática, documentar o processo e evoluir continuamente."
