@@ -3,8 +3,19 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=caiquedevops&rank_icon=github&custom_title=Meu%20Status%20do%20GITHUB&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=caiquedevops&rank_icon=github&custom_title=Meu%20Status%20do%20GITHUB&show_icons=true&include_all_commits=true&theme=dark)
 
-## 🛠️ Tecnologias e conhecimentos
 
+## 🛠️ Tecnologias e conhecimentos
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" title="Linux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="45" title="Windows Server">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" title="Docker">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git">
+  <img src="https://devicons.io/devicons/icons/zabbix.svg" width="60" title="Zabbix">
+  <img src="https://devicons.io/devicons/icons/arduino.svg" width="45" title="Arduino">
+  <img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="45" title="Certificado-Security">
+  
+  
+</p>
 ### 🖥️ Infraestrutura
 
 `Windows Server` `Linux` `TrueNAS` `Manutenção em Hardware`
